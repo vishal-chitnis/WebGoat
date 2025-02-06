@@ -34,6 +34,8 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.context.ApplicationContext;
 import org.springframework.core.io.ClassPathResource;
 
+// Dummy commit
+
 @Slf4j
 public class StartWebGoat {
 
